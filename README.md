@@ -127,3 +127,7 @@ This project is designed to run seamlessly on **Google Colab**, leveraging its f
 * Matplotlib (for plotting)
 * Seaborn (for statistical data visualization)
 * Google Colab (development environment)
+
+
+## 🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
