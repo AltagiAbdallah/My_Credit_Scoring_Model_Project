@@ -127,7 +127,3 @@ This project is designed to run seamlessly on **Google Colab**, leveraging its f
 * Matplotlib (for plotting)
 * Seaborn (for statistical data visualization)
 * Google Colab (development environment)
-
-## License
-
-This project is open-source and available under the MIT License. See the `LICENSE` file for more details. *(You might want to create an actual `LICENSE` file in your GitHub repo).*
